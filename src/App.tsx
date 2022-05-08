@@ -9,7 +9,7 @@ function App() {
         <img src={loading} className="App-logo" alt="logo" />
         <p>
           Our webpage is currently under development... Please check back at a
-          later date in time!
+          later date in time! - The Developers
         </p>
       </header>
     </div>
