@@ -8,8 +8,10 @@ function App() {
       <header className="App-header">
         <img src={loading} className="App-logo" alt="logo" />
         <p>
-          Our webpage is currently under development... Please check back at a
-          later date in time! - The Developers
+          Our webpage is currently under development...
+          <br />
+          Please check back at a later date in time!
+          <br />- The Developers
         </p>
       </header>
     </div>
